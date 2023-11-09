@@ -23,19 +23,19 @@ body {
 }
 
 .product, .cart-item {
-    border: 5px solid #2ec442;
+    border: 5px solid #FF0000;
     padding: 80px;
     margin-bottom: 80px;
 }
 
 button {
-    background-color: #af1c83;
-    color: #fff;
+    background-color: #00FF80;
+    color: #FF8000;
     border: none;
     padding: 5px 10px;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #d2d42c;
+    background-color: #FFC0CB;
 }
