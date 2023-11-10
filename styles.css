@@ -14,7 +14,7 @@ body {
     height: 20%;
     justify-content: normal;
     align-items: normal;
-    background-color: rgb(102, 192, 199);
+    background-color: rgb(255,255,153);
 }
 .products, .cart {
     float: inline-center;
@@ -37,5 +37,5 @@ button {
 }
 
 button:hover {
-    background-color: #2E8B57;
+    background-color: #FF9999;
 }
